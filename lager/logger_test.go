@@ -6,8 +6,8 @@ import (
     "strconv"
     "time"
 
-    "github.com/lexkong/log/lager"
-    "github.com/lexkong/log/lager/lagertest"
+    "github.com/lanxia/log/lager"
+    "github.com/lanxia/log/lager/lagertest"
 
     . "github.com/onsi/ginkgo"
     . "github.com/onsi/gomega"
